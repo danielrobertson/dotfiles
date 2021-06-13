@@ -1,0 +1,82 @@
+{
+  "editor.fontSize": 15,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorCustomizations": {
+     "editor.background": "#1b1d1f"
+  },
+  "window.title": "${folderName}${separator}${activeEditorMedium}",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.scrollback": 10000,
+  "eslint.format.enable": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "eslint.alwaysShowStatus": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "workbench.editor.labelFormat": "short",
+  "cSpell.userWords": [
+    "Imgix",
+    "leafly"
+  ],
+  "workbench.statusBar.visible": true,
+  "git.promptToSaveFilesBeforeCommit": "never",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.renderWhitespace": "all",
+  "ruby.useBundler": true, //run non-lint commands with bundle exec
+  "ruby.useLanguageServer": true, // use the internal language server (see below)
+  "ruby.lint": {
+    "rubocop": {
+      "useBundler": true
+    },
+    "reek": {
+      "useBundler": true
+    }
+  },
+  "ruby.format": "rubocop",
+  "[ruby]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "ruby.intellisense": "rubyLocate",
+  "gitlens.toggleLineBlame": true,
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "javascript"
+  },
+  "cSpell.enableFiletypes": [
+    "!javascript"
+  ],
+  "terminal.integrated.fontSize": 14,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.wrapTabs": true,
+  "workbench.editor.decorations.colors": true,
+  "liveshare.authenticationProvider": "GitHub",
+  "editor.formatOnSave": true,
+  "indenticator.showHover": true,
+  "window.zoomLevel": 1
+}
