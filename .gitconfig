@@ -1,15 +1,15 @@
 # This is Git's per-user configuration file.
 
 [user]
-	name = Daniel Robertson
-	email = danielrobertson733@gmail.com
+	name = 
+	email = 
 
 [alias]
   p = pull 
   a = add
   st = status
   ci = commit
-  br = branch
+  br = for-each-ref --count=20 --sort=-committerdate refs/heads/ --format='%(refname:short)'
   co = checkout
   df = diff
   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
