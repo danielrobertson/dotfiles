@@ -10,7 +10,7 @@
   st = status
   ci = commit
   br = for-each-ref --count=20 --sort=-committerdate refs/heads/ --format='%(refname:short)'
-  co = checkout $(git --sort=-committerdate branch | fzf)
+  co = checkout $(git branch --sort=-committerdate  | fzf)
   df = diff
   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
   redev = !git fetch origin develop && git rebase origin/develop
