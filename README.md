@@ -10,14 +10,15 @@ My config files and settings
 
 ## VSCode extensions 
 - [RestClient](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- Tailwind CSS IntelliSense
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
+- GitLens
 - Code Spell Checker
 - ESLint 
 - Prettier 
 - YML
 - Import Cost
 - Markdown Preview Enhanced
+- Tailwind CSS IntelliSense
 
 ## Chrome extensions 
 - JSON Formatter
