@@ -1,10 +1,10 @@
 # dotfiles
-My config files
+My config files and settings
 
 # Other Tools 
 ## Productivity 
-- [Maccy](https://maccy.app/)
-- [BetterTouchTool](https://folivora.ai/)
+- [Maccy](https://maccy.app/) clipboard management 
+- [BetterTouchTool](https://folivora.ai/) window management
 - [iTerm](https://iterm2.com/)
 
 ## VSCode extensions 
