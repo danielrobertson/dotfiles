@@ -6,6 +6,7 @@ My config files and settings
 - [Maccy](https://maccy.app/) clipboard management 
 - [BetterTouchTool](https://folivora.ai/) window management
 - [iTerm](https://iterm2.com/)
+- LastPass
 
 ## VSCode extensions 
 - [RestClient](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
@@ -17,3 +18,10 @@ My config files and settings
 - YML
 - Import Cost
 - Markdown Preview Enhanced
+
+## Chrome extensions 
+- JSON Formatter
+- LastPass
+- React Developer Tools
+- Redux DevTools
+- CSS Stacking Context inspector
