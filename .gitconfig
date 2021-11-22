@@ -1,22 +1,16 @@
-# This is Git's per-user configuration file.
-
-[user]
-	name = 
-	email = 
-
 [alias]
-  p = pull 
+  p = push --force-with-lease --no-verify
   a = add
   st = status
   ci = commit
-  br = branch --sort=-committerdate | fzf
-  co = checkout $(git branch --sort=-committerdate  | fzf)
+  br = branch 
+  co = checkout
   df = diff
   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
   redev = !git fetch origin develop && git rebase origin/develop
   remaster = !git fetch origin master && git rebase origin/master
   remain = !git fetch origin main && git rebase origin/main
-[url "git@github.com:"]
-	insteadOf = https://github.com/
 [push]
 	default = current
+[url "git@github.com:"]
+	insteadOf = https://github.com/
