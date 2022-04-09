@@ -1,6 +1,14 @@
 # dotfiles
 My config files and settings
 
+# MacOS config 
+### Speed up Dock animate in/out 
+```
+defaults write com.apple.dock autohide-delay -float 0
+defaults write com.apple.dock autohide-time-modifier -float .2
+killall Dock
+```
+
 # Other Tools 
 ## Productivity 
 - [Maccy](https://maccy.app/) clipboard management 
