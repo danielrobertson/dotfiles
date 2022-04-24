@@ -36,6 +36,7 @@ killall Dock
 - Import Cost
 - Markdown Preview Enhanced
 - Tailwind CSS IntelliSense
+- [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 
 ## Chrome extensions 
