@@ -1,12 +1,12 @@
 {
-  "editor.fontSize": 15,
+  "editor.fontSize": 14,
   "workbench.colorTheme": "Atom One Dark",
   "workbench.colorCustomizations": {
     "editor.background": "#1b1d1f"
   },
   "window.title": "${folderName}${separator}${activeEditorMedium}",
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.scrollback": 100000,
   "eslint.format.enable": true,
   "eslint.codeActionsOnSave.mode": "all",
   "[javascript]": {
@@ -22,44 +22,44 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "eslint.alwaysShowStatus": true,
   "editor.minimap.enabled": false,
   "explorer.confirmDelete": false,
   "workbench.editor.labelFormat": "short",
   "cSpell.userWords": [
+    "camelcase",
+    "Cannabinoids",
+    "classname",
+    "commitlint",
+    "contentful",
+    "directus",
     "Imgix",
-    "leafly"
+    "indica",
+    "leafly",
+    "moonrepo",
+    "nums",
+    "openapi",
+    "packemon",
+    "Sailthru",
+    "semibold",
+    "Sitewide",
+    "SOTY",
+    "subcomponents",
+    "tailwindcss",
+    "tanstack",
+    "testid"
   ],
   "workbench.statusBar.visible": true,
   "git.promptToSaveFilesBeforeCommit": "never",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "editor.renderWhitespace": "all", //run non-lint commands with bundle exec
-  "ruby.useLanguageServer": true, // use the internal language server (see below)
-  "ruby.lint": {
-    "rubocop": {
-      "useBundler": true
-    },
-    "reek": {
-      "useBundler": true
-    }
-  },
-  "ruby.format": "rubocop",
-  "[ruby]": {
-    "editor.insertSpaces": true,
-    "editor.tabSize": 2,
-    "editor.defaultFormatter": "misogi.ruby-rubocop"
-  },
   "diffEditor.ignoreTrimWhitespace": false,
-  "ruby.intellisense": "rubyLocate",
   "gitlens.toggleLineBlame": true,
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
     "plaintext": "javascript"
   },
-  "cSpell.enableFiletypes": [
-    "!javascript"
-  ],
+  "cSpell.enableFiletypes": ["!javascript"],
   "terminal.integrated.fontSize": 14,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -74,15 +74,72 @@
   "workbench.editor.enablePreviewFromQuickOpen": true,
   "workbench.editor.wrapTabs": true,
   "workbench.editor.decorations.colors": true,
-  "liveshare.authenticationProvider": "GitHub",
-  "editor.formatOnSave": true,
-  "indenticator.showHover": true,
   "redhat.telemetry.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
-  
-  "indentRainbow.includedLanguages": [
-    "none"
+
+  "indentRainbow.includedLanguages": ["none"],
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": false,
+
+  "ruby.intellisense": false,
+  "ruby.lint": {
+    "rubocop": true,
+    "reek": false
+  },
+  "[ruby]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "misogi.ruby-rubocop"
+  },
+  "ruby.format": "standard",
+  "ruby.useBundler": true,
+  "solargraph.completion": true,
+  "solargraph.definitions": true,
+  "solargraph.folding": true,
+  "solargraph.hover": true,
+  "solargraph.rename": true,
+  "solargraph.references": true,
+  "solargraph.symbols": true,
+  "solargraph.useBundler": true,
+  "solargraph.formatting": true,
+  "solargraph.checkGemVersion": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.accessibilitySupport": "off",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "css.validate": false,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "projectManager.git.baseFolders": ["/Users/daniel/code"],
+  "projectManager.sortList": "Recent",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "typescript": true,
+    "typescriptreact": true
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "jsonc"
   ],
-  "editor.guides.bracketPairs": true, 
-  "editor.guides.bracketPairsHorizontal": false
+  "editor.formatOnSave": true,
+  "vscode-pets.petSize": "small",
+  "vscode-pets.throwBallWithMouse": true,
+  "vscode-pets.theme": "forest",
+  "editor.fontLigatures": false,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.fontWeight": "300",
+  "terminal.integrated.env.osx": {},
+  "editor.fontFamily": "FiraCode Nerd Font Mono, Menlo, Monaco, 'Courier New', monospace",
+  "errorLens.enabledDiagnosticLevels": ["error"]
 }
