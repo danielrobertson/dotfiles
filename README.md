@@ -2,7 +2,8 @@
 My config files and settings
 
 # MacOS config 
-- oh-my-zsh shell 
+- oh-my-zsh shell
+  - [Starship theme](https://starship.rs/guide/) 
 - Arc browser
 - Increase dock animate in/out speed
   After enable auto hide dock in Settings, run these to speed up the animate in/out time 
