@@ -21,7 +21,7 @@ My config files and settings
   - Clipboard manager is decent, but I prefer [Maccy](https://maccy.app/)
   - Window Management
 - [iTerm](https://iterm2.com/)
-- 1Password
+- Dashlane passsword manager
 - [GitHub Copilot](https://copilot.github.com/)
 - [Mullvad VPN](https://mullvad.net/) because it's one of the few not owned by [sketchy Kape Technologies (PIA)](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/) 
 
