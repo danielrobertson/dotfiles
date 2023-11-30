@@ -28,6 +28,7 @@ My config files and settings
 ## VSCode extensions 
 - [GitHub Copilot](https://copilot.github.com/) 
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) One-hotkey print statements with context
+- [AutoRenameTag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) This has literally helped me catch bugs
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Makes creating `useState` states _fast_
 - [RestClient](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) Lofi Postman 
