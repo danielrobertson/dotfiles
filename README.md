@@ -2,10 +2,10 @@
 My config files and settings
 
 # MacOS config 
-- oh-my-zsh shell
+- [oh-my-zsh shell](https://ohmyz.sh/)
   - [Starship theme](https://starship.rs/guide/)
   - [FiraCode Nerd Font Mono](https://www.nerdfonts.com/font-downloads)
-- Arc browser
+- [Arc browser](https://arc.net/)
 - Increase dock animate in/out speed
   After enabling [auto hide dock](https://www.idownloadblog.com/2018/02/22/how-to-automatically-hide-dock-mac/) in Settings, run these to speed up the animate in/out time 
   ```
@@ -18,8 +18,8 @@ My config files and settings
 ## Productivity 
 - [Raycast](https://www.raycast.com/) Spotlight alternative. Some of my favorite features are 
   - VSCode [Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) for quick opening projects 
-  - Clipboard manager is decent, but I prefer [Maccy](https://maccy.app/)
-  - Window Management
+  - Clipboard manager is good, but marginally I prefer [Maccy](https://maccy.app/)
+  - Window Management good enough to replace BTT for my workflows 
 - [iTerm](https://iterm2.com/)
 - Dashlane passsword manager
 - [GitHub Copilot](https://copilot.github.com/)
