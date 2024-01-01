@@ -23,7 +23,7 @@ My config files and settings
 - [iTerm](https://iterm2.com/)
 - Dashlane passsword manager
 - [GitHub Copilot](https://copilot.github.com/)
-- [Mullvad VPN](https://mullvad.net/) because it's one of the few not owned by [sketchy Kape Technologies (PIA)](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
+- [Mullvad VPN](https://mullvad.net/) because it's one of the few not owned by [Kape Technologies (PIA)](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
 - [Grammarly](https://www.grammarly.com/)
 
 ## VSCode extensions 
@@ -47,6 +47,8 @@ My config files and settings
 
 
 ## Chrome extensions 
+- uBlock Origin
+- Grammarly
 - JSON Formatter
 - 1Password
 - React Developer Tools
