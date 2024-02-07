@@ -25,6 +25,33 @@ My config files and settings
 - [Mullvad VPN](https://mullvad.net/) because it's one of the few not owned by [Kape Technologies (PIA)](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
 - [Grammarly](https://www.grammarly.com/)
 
+```
+# install brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+brew update
+
+# install gui apps 
+brew install --cask \
+  raycast \
+  arc \
+  iterm2 \
+  visual-studio-code \
+  docker \
+  mullvadvpn \ 
+  slack \
+  discord \
+  figma \
+  maccy \
+  zoom \
+
+
+brew install \
+  git \
+  node \ 
+  nvm 
+```
+
 ## VSCode extensions 
 - [GitHub Copilot](https://copilot.github.com/) 
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) One-hotkey print statements with context
