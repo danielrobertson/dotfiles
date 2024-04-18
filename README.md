@@ -17,10 +17,10 @@ My config files and settings
 - [Arc browser](https://arc.net/)
 - [Raycast](https://www.raycast.com/) Spotlight alternative. Some of my favorite features are 
   - VSCode [Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) for quick opening projects 
-  - Clipboard manager is good, but marginally I prefer [Maccy](https://maccy.app/)
+  - Clipboard manager
   - Window Management good enough to replace BTT for my workflows 
 - [iTerm](https://iterm2.com/)
-- Dashlane passsword manager
+- Dashlane password manager
 - [GitHub Copilot](https://copilot.github.com/)
 - [Mullvad VPN](https://mullvad.net/) because it's one of the few not owned by [Kape Technologies (PIA)](https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/)
 - [Grammarly](https://www.grammarly.com/)
@@ -42,8 +42,8 @@ brew install --cask \
   slack \
   discord \
   figma \
-  maccy \
   zoom \
+  karabiner-elements 
 
 
 brew install \
