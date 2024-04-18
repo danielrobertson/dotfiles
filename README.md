@@ -77,7 +77,7 @@ brew install \
 - uBlock Origin
 - Grammarly
 - JSON Formatter
-- 1Password
+- Dashlane
 - React Developer Tools
 - Redux DevTools
 - CSS Stacking Context inspector
