@@ -16,9 +16,10 @@ My config files and settings
 ## Productivity 
 - [Arc browser](https://arc.net/)
 - [Raycast](https://www.raycast.com/) Spotlight alternative. Some of my favorite features are 
-  - VSCode [Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) for quick opening projects 
+  - [Project Manager](https://www.raycast.com/MarkusLanger/vscode-project-manager) for quick opening projects in VSCode. Note this relies on VSCode Project Manager extension  
   - Clipboard manager
   - Window Management good enough to replace BTT for my workflows
+  - [Brew](https://www.raycast.com/nhojb/brew)
 - [Karabiner Elements](https://karabiner-elements.pqrs.org/) to convert Caps Lock into Hyper key, then in Raycast I alias common applications to hotkeys ![image](https://github.com/danielrobertson/dotfiles/assets/3459902/87bb0e34-e6a4-486c-b1c3-cdc5e0513b64)
 - [iTerm](https://iterm2.com/)
 - Dashlane password manager
