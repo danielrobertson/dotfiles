@@ -50,7 +50,6 @@ brew install --cask \
 
 brew install \
   git \
-  node \ 
   nvm 
 ```
 
