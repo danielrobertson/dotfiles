@@ -45,7 +45,8 @@ brew install --cask \
   discord \
   figma \
   zoom \
-  karabiner-elements 
+  karabiner-elements \
+  keycastr
 
 
 brew install \
