@@ -54,8 +54,8 @@ brew install \
   nvm 
 ```
 
-## VSCode extensions 
-- [GitHub Copilot](https://copilot.github.com/) 
+## Cursor (VSCode) extensions 
+- [GitHub Copilot](https://copilot.github.com/) -- experimenting dropping this in favor of Cursor 
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) One-hotkey print statements with context
 - [AutoRenameTag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) This has literally helped me catch bugs
@@ -64,7 +64,6 @@ brew install \
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) Has a handy feature "Open line on remote" that opens the line in GitHub 
 - ESLint 
 - Prettier
-- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) integrates nicely with Raycast to quickly open git repos
 - Check Updates of NPM Packages
 - Import Cost
 - Error Lens
@@ -74,7 +73,7 @@ brew install \
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Handy for quick HTML serving 
 
 
-## Chrome extensions 
+## Arc (Chromium) extensions 
 - uBlock Origin
 - Grammarly
 - JSON Formatter
