@@ -16,7 +16,7 @@ My config files and settings
 ## Productivity 
 - [Arc browser](https://arc.net/)
 - [Raycast](https://www.raycast.com/) Spotlight alternative. Some of my favorite features are 
-  - [List Repos](https://www.raycast.com/moored/git-repos) for quick opening projects in VSCode
+  - [Git Repos](https://www.raycast.com/moored/git-repos) for quick opening projects in VSCode
   - Clipboard manager
   - Window Management good enough to replace BTT for my workflows
   - [Brew](https://www.raycast.com/nhojb/brew)
