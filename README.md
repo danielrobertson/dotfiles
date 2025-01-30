@@ -46,7 +46,8 @@ brew install --cask \
   figma \
   zoom \
   karabiner-elements \
-  keycastr
+  keycastr \
+  warp
 
 
 brew install \
