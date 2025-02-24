@@ -9,23 +9,13 @@
   "terminal.integrated.scrollback": 100000,
   "eslint.format.enable": true,
   "eslint.codeActionsOnSave.mode": "all",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.minimap.enabled": false,
   "explorer.confirmDelete": false,
   "workbench.editor.labelFormat": "short",
   "cSpell.userWords": [
+    "Booklist",
     "camelcase",
     "Cannabinoids",
     "classname",
@@ -52,18 +42,14 @@
   "git.promptToSaveFilesBeforeCommit": "never",
   "editor.suggestSelection": "first",
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-  "editor.renderWhitespace": "all", //run non-lint commands with bundle exec
+  "editor.renderWhitespace": "all",
   "diffEditor.ignoreTrimWhitespace": false,
   "gitlens.toggleLineBlame": true,
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
     "plaintext": "javascript"
   },
-  "cSpell.enableFiletypes": ["!javascript"],
   "terminal.integrated.fontSize": 14,
-  "[typescriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "files.exclude": {
     "**/.classpath": true,
     "**/.project": true,
@@ -76,19 +62,13 @@
   "workbench.editor.decorations.colors": true,
   "redhat.telemetry.enabled": false,
   "security.workspace.trust.untrustedFiles": "open",
-
   "indentRainbow.includedLanguages": ["none"],
   "editor.guides.bracketPairs": true,
   "editor.guides.bracketPairsHorizontal": false,
-
   "ruby.intellisense": false,
   "ruby.lint": {
     "rubocop": true,
     "reek": false
-  },
-  "[ruby]": {
-    "editor.formatOnSave": true,
-    "editor.defaultFormatter": "misogi.ruby-rubocop"
   },
   "ruby.format": "standard",
   "ruby.useBundler": true,
@@ -102,7 +82,6 @@
   "solargraph.useBundler": true,
   "solargraph.formatting": true,
   "solargraph.checkGemVersion": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.accessibilitySupport": "off",
   "editor.quickSuggestions": {
     "strings": true
@@ -141,5 +120,13 @@
   "terminal.integrated.fontWeight": "300",
   "terminal.integrated.env.osx": {},
   "editor.fontFamily": "FiraCode Nerd Font Mono, Menlo, Monaco, 'Courier New', monospace",
-  "errorLens.enabledDiagnosticLevels": ["error"]
+  "errorLens.enabledDiagnosticLevels": ["error"],
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true
 }
