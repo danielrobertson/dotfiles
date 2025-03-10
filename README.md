@@ -54,8 +54,10 @@ brew install \
   nvm 
 ```
 
+Other apps 
+- Dashlane 
+
 ## Cursor (VSCode) extensions 
-- [GitHub Copilot](https://copilot.github.com/) -- experimenting dropping this in favor of Cursor 
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) One-hotkey print statements with context
 - [AutoRenameTag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) This has literally helped me catch bugs
@@ -73,10 +75,8 @@ brew install \
 - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Handy for quick HTML serving 
 
 
-## Arc (Chromium) extensions 
-- uBlock Origin
+## Zen extensions 
 - Grammarly
-- JSON Formatter
 - Dashlane
 - React Developer Tools
 - Redux DevTools
