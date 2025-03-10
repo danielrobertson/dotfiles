@@ -37,9 +37,8 @@ brew update
 brew install --cask \
   raycast \
   zen-browser \
-  iterm2 \
-  visual-studio-code \
-  docker \
+  ghostty \
+  cursor \
   mullvadvpn \
   slack \
   discord \
