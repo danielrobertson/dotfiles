@@ -36,11 +36,11 @@ brew update
 # install gui apps 
 brew install --cask \
   raycast \
-  arc \
+  zen-browser \
   iterm2 \
   visual-studio-code \
   docker \
-  mullvadvpn \ 
+  mullvadvpn \
   slack \
   discord \
   figma \
