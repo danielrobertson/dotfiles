@@ -37,7 +37,6 @@ brew update
 brew install --cask \
   raycast \
   zen-browser \
-  ghostty \
   cursor \
   mullvadvpn \
   slack \
@@ -46,7 +45,9 @@ brew install --cask \
   zoom \
   karabiner-elements \
   keycastr \
-  warp
+  ghostty \
+  warp \
+  screen-studio
 
 
 brew install \
